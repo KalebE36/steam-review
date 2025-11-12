@@ -1,4 +1,4 @@
-# Install Requirements
+# Install Requirements (manual)
 1) Create a python virtual environment in the root directory (`steam-review/`)
 ```
 python -m venv .venv
@@ -10,4 +10,17 @@ source .venv/bin/activate
 3. Install requirements
 ```
 pip install -r requirements.txt
+```
+
+# Install Requirements (script)
+### UNIX (Mac or Linux)
+```
+cd scripts/
+chmod +x unix_env.sh
+./unix_env.sh
+```
+
+### Windows
+```
+Double click on "dos_env.bat"
 ```
