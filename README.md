@@ -24,3 +24,6 @@ chmod +x unix_env.sh
 ```
 Double click on "dos_env.bat"
 ```
+
+
+MAKE SURE YOU HAVE THE RIGHT DATASETS DOWNLOADED. THE IMPORTANT ONES ARE weighted_score_above_08.csv and processed_text.csv
